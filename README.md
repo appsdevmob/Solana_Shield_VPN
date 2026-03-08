@@ -90,5 +90,3 @@ Whether you're a DeFi trader needing MEV protection, an airdrop hunter requiring
 
 *For partnerships, node operation inquiries, or to join our community, please check out our documentation or contact the core team.*
 
-## 📄 License
-*MIT License*
